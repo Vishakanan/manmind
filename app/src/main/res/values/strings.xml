@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">UI</string>
+    <string name="_catogories">Catogories</string>
+    <string name="user_home">User Home</string>
+    <string name="_customer">Customer</string>
+    <string name="_logout">Logout</string>
+    <string name="_add">ADD</string>
+    <string name="_delete">DELETE</string>
+    <string name="product_name">Product_name</string>
+    <string name="product_description">Product_description</string>
+    <string name="product_price">Product_price</string>
+    <string name="product_quantity">Product_quantity</string>
+    <string name="add_product">ADD PRODUCT</string>
+    <string name="product_category_name">Product_category_name</string>
+    <string name="add_new_category">ADD NEW CATOGORY</string>
+    <string name="_update">UPDATE</string>
+</resources>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
